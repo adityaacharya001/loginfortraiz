@@ -1,1 +1,1 @@
-web: testrun.sh
+web: ./testrun.sh
