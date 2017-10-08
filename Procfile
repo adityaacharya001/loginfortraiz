@@ -1,1 +1,2 @@
-web: python manage.py runserver
+server: python manage.py runserver
+web: node static/server.js
