@@ -1,1 +1,1 @@
-web: ./testrun.sh
+web: python manage.py runserver
